@@ -1,3 +1,3 @@
-# async-django
+# elegant-script
 
-Asynchronous Django
+Elegant, modern and professional rich text editor
